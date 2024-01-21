@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Firebase**
 
-- 📫 How to reach me **sarica.alessio@outlook.it**
+- 📫 How to reach me **sarica.alessio@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
